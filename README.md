@@ -1,2 +1,3 @@
-# Repurposing_Agents
-Example outputs from Agentic System for Drug Repurposing
+# Multi-agentic System for Drug Repurposing
+
+<img src="images/poster.png" width="300">
