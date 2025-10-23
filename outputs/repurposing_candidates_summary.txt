@@ -1,0 +1,5 @@
+Input file rows: protein=2880, pathway=8466, moa=738
+Unique chembl_ids merged: 1584
+From protein: 1197 | from pathway: 1024 | from MoA: 738
+SMILES present: 1584 | missing (N/A): 0
+chembl_ids missing SMILES (first 100 shown): 
